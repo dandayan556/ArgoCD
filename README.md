@@ -1,4 +1,4 @@
-# Kubernetes app with simple ArgoCD
+# Kubernetes app with ArgoCD
 
 [![My Linkedin](https://www.linkedin.com/in/ariel-ben-zikri)](https://www.linkedin.com/in/ariel-ben-zikri)
 
